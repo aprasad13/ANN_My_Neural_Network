@@ -6,7 +6,7 @@ In this project, I have build a <strong>Deep Neural Network</strong>, with as ma
 
 **Note:**
 - I have implemented an easy-to-use neural network class.
-- I have used non-linear units like ReLU for the hidden layers to improve your model and Sigmoid function for outer layer.
+- I have used non-linear units like ReLU for the hidden layers to improve the model and Sigmoid function for outer layer.
 - I have build a deeper neural network (with more than 1 hidden layer). We can mention the number of hidden layers and their corresponding number of nodes we want in our neural network.
 
 
