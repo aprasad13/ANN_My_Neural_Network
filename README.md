@@ -1,5 +1,5 @@
 # My_Neural_Network
-In this project, I have build a deep neural network, with as many layers as we want! You can 
+In this project, I have build a deep neural network, with as many layers as we want!
 
 - In this project, I have implemented all the functions required to build a deep neural network.
 - I have used these functions to build a deep neural network for image classification (cat/non-cat)
