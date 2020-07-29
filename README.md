@@ -23,5 +23,7 @@ So, neural network with more than 2 layers performed better
 - Click to access the [Training Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/train_catvnoncat.h5) and [Testing Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/test_catvnoncat.h5)
 
 ## Functionality for Performance Improvement 
-- Used <strong>He Initialization</strong> (recommended for Relu activation) for parameter initialization so that the gradiant descents do not explode or vanish
-- 
+- Implemented <strong>He Initialization</strong> (recommended for Relu activation) for parameter initialization so that the gradiant descents do not explode or vanish
+- Implemented <strong>L2 Regularization</strong> functionality. User can mention the value of lambda (regularization parameter).
+- Implemented <strong>Dropout</strong> functionality. User can mention the layer_number to implement dropout upon and the probability to nock-out.
+- User can also implement both L2 Regularization and Dropout simultaneously 
