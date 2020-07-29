@@ -21,3 +21,7 @@ So, neural network with more than 2 layers performed better
 ## Notebook
 - Click to access the detailed [Jupiter Notebook](https://github.com/aprasad13/My_Neural_Network/blob/master/My_Neural_Network_V4.ipynb) for code and visualizations.
 - Click to access the [Training Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/train_catvnoncat.h5) and [Testing Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/test_catvnoncat.h5)
+
+## Functionality for Performance Improvement 
+- Used <strong>He Initialization</strong> (recommended for Relu activation) for parameter initialization so that the gradiant descents do not explode or vanish
+- 
