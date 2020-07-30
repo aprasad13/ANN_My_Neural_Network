@@ -14,8 +14,8 @@ In this project, I have build a <strong>Deep Neural Network</strong>, with as ma
 I have compared the performance of a 2 Layer neural network vs L-layer neural network (4 Layer) to classify a cat and non-cat image on the test data
 
 - 2 Layer had accuracy of 72%
-- 4 Layer with Dropout had accuracy of 78%
 - 4 Layer with L2 Regularization had accuracy of 80%
+- 4 Layer with Dropout had accuracy of 82%
 
 So, neural network with more than 2 layers performed better
 
