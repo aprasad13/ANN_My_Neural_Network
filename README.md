@@ -20,7 +20,7 @@ I have compared the performance of a 2 Layer neural network vs L-layer neural ne
 So, neural network with more than 2 layers performed better
 
 ## Notebook
-- Click to access the detailed [Jupiter Notebook](https://github.com/aprasad13/My_Neural_Network/blob/master/My_Neural_Network_V6.ipynb) for code and visualizations.
+- Click to access the detailed [Jupyter Notebook](https://github.com/aprasad13/My_Neural_Network/blob/master/My_Neural_Network_V6.ipynb) for code and visualizations.
 - Click to access the [Training Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/train_catvnoncat.h5) and [Testing Dataset](https://github.com/aprasad13/My_Neural_Network/blob/master/test_catvnoncat.h5)
 
 ## Functionality for Performance Improvement 
